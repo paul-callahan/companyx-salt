@@ -1,0 +1,3 @@
+memcached:
+  pkg:
+    - absent
